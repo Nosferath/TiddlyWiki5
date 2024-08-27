@@ -21,9 +21,9 @@ The Tiddloid and Tiddloid Lite app are Android apps that makes it possible to ed
 
 * Create new ~TiddlyWiki importing latest edition from internet
 * Import existing ~TiddlyWikis stored on device/internal storage. ([[TiddloidLite|https://github.com/donmor/TiddloidLite/releases]] supports external SD card too)
-* Fork interesting ~Tiddlywikis from internet  (Supports TW5 only)
+* Fork interesting ~TiddlyWikis from internet  (Supports TW5 only)
 * TiddlyWiki detection
-* Locally stored ~Tiddlywikis are updated simultaneously on saving changes to ~TiddlyWikis imported to the app
+* Locally stored ~TiddlyWikis are updated simultaneously on saving changes to ~TiddlyWikis imported to the app
 * Backup system that is compatible with TiddlyDesktop, the desktop TiddlyWiki saver
 * Creating shortcuts to existing ~TiddlyWiki  on Android Homepage
 * [[TiddloidLite|https://github.com/donmor/TiddloidLite/releases]] supports cloud storages like GDrive and ~OneDrive
